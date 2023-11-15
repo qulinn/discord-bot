@@ -1,0 +1,5 @@
+token.txt
+.env
+.DS_Store
+credentials.py
+__pycache__
